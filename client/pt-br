@@ -4,7 +4,7 @@
 	"edit": "EDITAR",
 	"select_style": "Escolha um estilo",
 	"toggle_textbox": "Toggle TextBox mode",
-	"reload_tip": "Recarregando Design",
+	"reload_tip" : "Recarregar o design",
 	"bg_transparency_tip": "Ajustar transparência de fundo",
 	"paste_tip": "Colar",
 	"undo_tip": "Desfazer",
@@ -104,8 +104,8 @@
 	"pretext_title": "Por favor customize seus detalhes",
 	"custom_design": "Projeto Customizado",
 	"uploaded_files": "Arquivos enviados",
-	"pdf_download": "Download PDF",
-	"design_saved": "Your design has been saved!",
+	"pdf_download" : "Baixar o PDF",
+	"design_saved" : "Seu projeto foi salvo!"
 	"modules": {
 		"variable-data": {
 			"title": "Generate Variation designs",
