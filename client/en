@@ -4,7 +4,6 @@
 	"edit": "EDIT",
 	"select_style" : "Select a Style",
 	"toggle_textbox": "Toggle TextBox mode",
-	
 	"reload_tip" : "Reload Design",
 	"bg_transparency_tip" : "Adjust background transparency",
 	"paste_tip" : "PASTE",
@@ -16,15 +15,12 @@
     "close_tip" : "CLOSE",
     "submit_tip" : "SUBMIT",
     "edit_bg_tip" : "Edit Background Image",
-	"ca_button_tooltip" : "Adjust your Canvas size",
-	"vd_button_tooltip" : "MULTIPLE COPIES",
 	"upload_tip" : "Click to Upload my files",
 	"custom_color_tip" : "Add Custom Color",
 	"ungroup_tip" : "Ungroup Items",
 	"group_tip" : "Group Items",
 	"your_pictures_tip" : "My Pictures",
 	"exit_group_tip" : "Click me to Exit Group Edit mode",
-	
 	"help_stage": "This is your design canvas. Whatever you design here is what will be printed",
 	"help_panels" : "Here, you can set canvas background, or add pictures from Facebook, Instagram etc as well as Text elements",
 	"help_panels_menus" : "Use these buttons to navigate the tabs below",
@@ -33,9 +29,6 @@
 	"help_close" : "To close the design editor and discard your design",
 	"help_finish": "Click this once you have finished your design and are ready to preview and submit",
 	"help_secondary_menus": "Further menus here to Snap Items, Undo / Redo, Zoom in / out, paste copied items, exit group edit mode etc.",
-	"help_vd_button" : "This allows you to create multiple copies of your design using your CSV or Excel data sheet",
-	"help_ca_button": "Click here to adjust your canvas dimension",
-	
 	"reload_alert": "This will clear your current edits and revert to the original design.<br/>Do you wish to continue?",
 	"customize_details" : "Kindly customize with your details",
 	"loading_text-arts": "Loading Text-Art",
@@ -60,7 +53,7 @@
     "button_label_yes" : "Yes",
     "button_label_no" : "No",
     "button_label_ok" : "Ok",
-    "button_label_cancel" : "Cancel",    
+    "button_label_cancel" : "Cancel",
     "file_upload_error" : "Opps, File is too large or not supported. Try again",
     "title_background" : "set page background",
     "title_picture" : "add pictures to your design",
@@ -80,7 +73,7 @@
     "resume_ok" : "Yes, Resume",
     "resume_cancel" : "No, Start Afresh",
     "saving_text" : "Saving...",
-    "facebook_label" : "add facebook pictures",
+    "facebook_label" : "Add facebook pictures",
     "facebook_login_button" : "Login to Facebook",
     "button_info" : "View Info",
     "saved_projects" : "Saved Projects",
@@ -97,7 +90,7 @@
     "file_upload" : "File Upload",
     "customize_design" : "Customize Now",
     "edit_design" : "Edit your design",
-    "start_over" : "Start Over",
+    "start_over" : "Create another one",
     "upload_files" : "Upload your files",
     "files_ok" : "Files OK :) You can change them",
     "upload_your_files" : "Upload your files",
@@ -109,15 +102,42 @@
     "delete_message" : "Do you want to delete the design?",
     "navigate" : "Do you want to navigate to your saved projects page?",
     "pretext_title" : "Kindly customize your details",
-    "vd_title1" : "Generate Variable Product",
-    "vd_title2" : "Assign Data Columns to Items",
-    "vd_details1" : "Add CSV or Excel file to create multiple units of this product from data rows.",
-    "vd_details2" : "Assign a column to each item or leave to make it non-variable driven. When finished, click the Green button to render data of all rows.",
-    "vd_import_btn_label" : "Select File",
-    "vd_render" : "Render",
-	"vd_wrong_files" : "Sorry, only .csv, .xls or .xlsx files are allowed",
-    "custom_design" : "Customize this design",
+	"custom_design" : "Customize this design",
     "uploaded_files" : "Uploaded Files",
     "pdf_download" : "Download PDF",
-	"design_saved" : "Your design has been saved!"
+	"design_saved" : "Your design has been saved!",
+	"modules" : {
+		"variable-data" : {
+			"title" : "Generate Variation designs",
+			"help" : "This allows you to create multiple copies of your design using your CSV or Excel data sheet",
+			"tip" : "MULTIPLE COPIES",
+			"upload" : "File Upload",
+			"upload_msg" : "Start by uploading your .csv or .xls file or drag and drop the file here",
+			"assign" : "Link elements",
+			"assign_msg" : "Link each element on the canvas to a column in your data source",
+			"render" : "Render pages",
+			"render_msg" : "Once you finish linking the elements, click here to generate the pages.",
+			"upload_ok" : "Upload is OK. You can click here to change file.",
+			"error_upload_type": "Sorry, only .csv, .xls or .xlsx files can be used!",
+			"confirm" : "Will you like to create multiple copies of your design using a CSV or Excel data sheet?",
+			"none" : "None"
+		},
+		"calendar" : {
+			"title" : "Configure your calendar",
+			"month_starts" : "Starting month",
+			"week_starts" : "Week starts",
+			"events": "Events",
+			"show_client" : "Show this to Customer",
+			"hide_client" : "Hide this from Customer"
+		},
+		"remix": {
+			"tip" : "Randomly add these photos to the canvas",
+			"help" : "This will randomly mix your photos into the design",
+			"help_title" : "Remix Photos"
+		},
+		"canvas-adjuster" : {
+			"tip" : "Adjust your Canvas size",
+			"help" : "Click here to adjust your canvas dimension"
+		}
+	}
 }
