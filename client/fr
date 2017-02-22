@@ -104,39 +104,39 @@
 	"pretext_title": "Veuillez modifier vos informations",
 	"custom_design": "Personnaliser",
 	"uploaded_files": "Fichiers téléchargés",
-	"pdf_download": "Download PDF",
-	"design_saved": "Your design has been saved!",
+	"pdf_download": "Télécharger PDF",
+	"design_saved": "Votre projet à été sauvegardé !",
 	"modules": {
 		"variable-data": {
 			"title": "Generate Variation designs",
-			"help": "This allows you to create multiple copies of your design using your CSV or Excel data sheet",
+			"help": "Cela vous permet de créer des données variables pour votre design en utilisant une base de données CSV ou Excel",
 			"tip": "MULTIPLE COPIES",
-			"upload": "File Upload",
-			"upload_msg": "Start by uploading your .csv or .xls file or drag and drop the file here",
-			"assign": "Link elements",
-			"assign_msg": "Link each element on the canvas to a column in your data source",
-			"render": "Render pages",
-			"render_msg": "Once you finish linking the elements, click here to generate the pages.",
-			"upload_ok": "Upload is OK. You can click here to change file.",
-			"error_upload_type": "Sorry, only .csv, .xls or .xlsx files can be used!",
-			"confirm": "Will you like to create multiple copies of your design using a CSV or Excel data sheet?",
-			"none": "None"
+			"upload": "Parcourir",
+			"upload_msg": "Commencer par télécharger ou glisser/déposer votre fichier .csv ou .xls file ici",
+			"assign": "Lier les éléments",
+			"assign_msg": "Lier chaque élément sur le canvas en une colonne dans votre fichier.",
+			"render": "Générer les pages",
+			"render_msg": "Dès que vous avez fini de lier vos éléments, cliquez-ici pour générer votre page.",
+			"upload_ok": "Téléchargement OK. Vous pouvez cliquer ici pour changer de fichier.",
+			"error_upload_type": "Désoler, seul les fichiers .csv, .xls ou .xlsx sont autorisés!",
+			"confirm": "Voulez-vous créer des données variables pour votre design en utilisant une base de données CSV ou Excel ?",
+			"none": "Non"
 		},
 		"calendar": {
-			"title": "Configure your calendar",
-			"month_starts": "Starting month",
-			"week_starts": "Week starts",
-			"events": "Events",
-			"show_client": "Show this to Customer",
-			"hide_client": "Hide this from Customer"
+			"title": "Configurer votre Calendrier",
+			"month_starts": "Mois de départ",
+			"week_starts": "Jour de départ",
+			"events": "Evénements",
+			"show_client": "Montrer au Client",
+			"hide_client": "Ne pas montrer au client"
 		},
 		"remix": {
-			"tip": "Randomly add these photos to the canvas",
-			"help": "This will randomly mix your photos into the design",
+			"tip": "Ajouter aléatoirement ces photos",
+			"help": "Cela vous permet d'ajouter aléatoirement vos photos sur votre design",
 			"help_title": "Remix Photos"
 		},
 		"canvas-adjuster": {
-			"tip": "Adjust your Canvas size",
+			"tip": "Ajuster la taille de votre Canvas",
 			"help": "Click here to adjust your canvas dimension"
 		}
 	}
