@@ -1,11 +1,11 @@
-###PitchPrint Language Files
+### PitchPrint Language Files
 
 This repo hosts the language files for [PitchPrint Web2Print app](http://pitchprint.com) in JSON format. We will update this as we develop new features and count on the community to assist in translating to their various languages.
 
-###Contribution
+### Contribution
 To contribute, kindly fork, edit and make a pull request so that we can merge and update the app appropriately. Please ensure the files you are comitting are valid JSON files. You can always [validate here](http://jsonlint.com/)
 
-###MIT License
+### MIT License
 
 Copyright (c) 2008-2017 PitchPrint
 
