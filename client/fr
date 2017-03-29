@@ -120,7 +120,9 @@
 			"upload_ok": "Téléchargement OK. Vous pouvez cliquer ici pour changer de fichier.",
 			"error_upload_type": "Désoler, seul les fichiers .csv, .xls ou .xlsx sont autorisés!",
 			"confirm": "Voulez-vous créer des données variables pour votre design en utilisant une base de données CSV ou Excel ?",
-			"none": "Non"
+			"none": "Non",
+			"input_title": "Add individual records to create multiple pages and Render when ready to submit",
+			"add_record": "Add Record"
 		},
 		"calendar": {
 			"title": "Configurer votre Calendrier",
@@ -138,6 +140,13 @@
 		"canvas-adjuster": {
 			"tip": "Ajuster la taille de votre Canvas",
 			"help": "Click here to adjust your canvas dimension"
+		},
+		"page-loader": {
+			"add": "Add Page",
+			"delete": "Delete Page",
+			"swap": "Change this Page"
 		}
-	}
+	},
+	"page_delete_alert": "This will delete the current design page.<br/>Do you wish to continue?",
+	"gallery_search": "Type to search gallery.."
 }

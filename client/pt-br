@@ -4,7 +4,7 @@
 	"edit": "EDITAR",
 	"select_style": "Escolha um estilo",
 	"toggle_textbox": "Toggle TextBox mode",
-	"reload_tip" : "Recarregar o design",
+	"reload_tip": "Recarregar o design",
 	"bg_transparency_tip": "Ajustar transparência de fundo",
 	"paste_tip": "Colar",
 	"undo_tip": "Desfazer",
@@ -104,8 +104,8 @@
 	"pretext_title": "Por favor customize seus detalhes",
 	"custom_design": "Projeto Customizado",
 	"uploaded_files": "Arquivos enviados",
-	"pdf_download" : "Baixar o PDF",
-	"design_saved" : "Seu projeto foi salvo!"
+	"pdf_download": "Baixar o PDF",
+	"design_saved": "Seu projeto foi salvo!",
 	"modules": {
 		"variable-data": {
 			"title": "Generate Variation designs",
@@ -120,7 +120,9 @@
 			"upload_ok": "Upload is OK. You can click here to change file.",
 			"error_upload_type": "Sorry, only .csv, .xls or .xlsx files can be used!",
 			"confirm": "Will you like to create multiple copies of your design using a CSV or Excel data sheet?",
-			"none": "None"
+			"none": "None",
+			"input_title": "Add individual records to create multiple pages and Render when ready to submit",
+			"add_record": "Add Record"
 		},
 		"calendar": {
 			"title": "Configure your calendar",
@@ -138,6 +140,13 @@
 		"canvas-adjuster": {
 			"tip": "Adjust your Canvas size",
 			"help": "Click here to adjust your canvas dimension"
+		},
+		"page-loader": {
+			"add": "Add Page",
+			"delete": "Delete Page",
+			"swap": "Change this Page"
 		}
-	}
+	},
+	"page_delete_alert": "This will delete the current design page.<br/>Do you wish to continue?",
+	"gallery_search": "Type to search gallery.."
 }

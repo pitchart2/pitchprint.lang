@@ -30,6 +30,7 @@
 	"help_finish": "Click this once you have finished your design and are ready to preview and submit",
 	"help_secondary_menus": "Further menus here to Snap Items, Undo / Redo, Zoom in / out, paste copied items, exit group edit mode etc.",
 	"reload_alert": "This will clear your current edits and revert to the original design.<br/>Do you wish to continue?",
+	"page_delete_alert": "This will delete the current design page.<br/>Do you wish to continue?",
 	"customize_details" : "Kindly customize with your details",
 	"loading_text-arts": "Loading Text-Art",
 	"title_styles" : "add text & text styles",
@@ -106,6 +107,7 @@
     "uploaded_files" : "Uploaded Files",
     "pdf_download" : "Download PDF",
 	"design_saved" : "Your design has been saved!",
+	"gallery_search" : "Type to search gallery..",
 	"modules" : {
 		"variable-data" : {
 			"title" : "Generate Variation designs",
@@ -120,6 +122,8 @@
 			"upload_ok" : "Upload is OK. You can click here to change file.",
 			"error_upload_type": "Sorry, only .csv, .xls or .xlsx files can be used!",
 			"confirm" : "Will you like to create multiple copies of your design using a CSV or Excel data sheet?",
+			"input_title" : "Add individual records to create multiple pages and Render when ready to submit",
+			"add_record" : "Add Record",
 			"none" : "None"
 		},
 		"calendar" : {
@@ -138,6 +142,11 @@
 		"canvas-adjuster" : {
 			"tip" : "Adjust your Canvas size",
 			"help" : "Click here to adjust your canvas dimension"
+		},
+		"page-loader": {
+			"add": "Add Page",
+			"delete": "Delete Page",
+			"swap": "Change this Page"
 		}
 	}
 }
