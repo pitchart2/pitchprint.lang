@@ -108,21 +108,21 @@
 	"design_saved": "Your design has been saved!",
 	"modules": {
 		"variable-data": {
-			"title": "Generate Variation designs",
-			"help": "This allows you to create multiple copies of your design using your CSV or Excel data sheet",
-			"tip": "MULTIPLE COPIES",
-			"upload": "File Upload",
-			"upload_msg": "Start by uploading your .csv or .xls file or drag and drop the file here",
-			"assign": "Link elements",
-			"assign_msg": "Link each element on the canvas to a column in your data source",
-			"render": "Render pages",
-			"render_msg": "Once you finish linking the elements, click here to generate the pages.",
+			"title": "Kartensets gestalten",
+			"help": "Diese Funktion hilft Ihnen Karten mit variablen Daten, wie Namen zu gestalten. Wählen Sie hierzu den Assistenten oder den CSV Upload",
+			"tip": "KARTENSETS",
+			"upload": "CSV Datei Upload",
+			"upload_msg": "Laden Sie hier zuerst Ihre .csv oder .xls Datei hoch.",
+			"assign": "Felder vernküpfen",
+			"assign_msg": "Verbinden Sie jeden Eintrag mit dem gewünschen Element auf der Karte",
+			"render": "Kartenset erzeugen",
+			"render_msg": "Erzeugen Sie final das Kartenset mit dem Option *Kartenset erzeugen*",
 			"upload_ok": "Upload is OK. You can click here to change file.",
-			"error_upload_type": "Sorry, only .csv, .xls or .xlsx files can be used!",
-			"confirm": "Will you like to create multiple copies of your design using a CSV or Excel data sheet?",
+			"error_upload_type": "Achtung, nur .csv, .xls or .xlsx Dateien können verwendet werden!",
+			"confirm": "Möchten Sie ein Kartenset mit Hilfe von CXV oder EXCEL Dateien erstellen?",
 			"none": "None",
-			"input_title": "Add individual records to create multiple pages and Render when ready to submit",
-			"add_record": "Add Record"
+			"input_title": "Fügen Sie weitere Karten, je nach gewünschter Anzahl zu. Bestätigen Sie das Set final mit *Kartenset erzeugen*",
+			"add_record": "Karte hinzufügen"
 		},
 		"calendar": {
 			"title": "Configure your calendar",
@@ -148,5 +148,6 @@
 		}
 	},
 	"page_delete_alert": "This will delete the current design page.<br/>Do you wish to continue?",
-	"gallery_search": "Type to search gallery.."
+	"gallery_search": "Type to search gallery..",
+	"save_later": "Save for Later"
 }

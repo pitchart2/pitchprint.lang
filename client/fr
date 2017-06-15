@@ -142,11 +142,12 @@
 			"help": "Click here to adjust your canvas dimension"
 		},
 		"page-loader": {
-			"add": "Add Page",
-			"delete": "Delete Page",
-			"swap": "Change this Page"
+			"add": "Créer une page",
+			"delete": "Supprimer la page",
+			"swap": "Changer cette page"
 		}
 	},
-	"page_delete_alert": "This will delete the current design page.<br/>Do you wish to continue?",
-	"gallery_search": "Type to search gallery.."
+	"page_delete_alert": "Ceci supprimera la page actuelle.<br/>Souhaitez-vous continuer ?",
+	"gallery_search": "Type de galerie de recherche..",
+	"save_later": "Save for Later"
 }

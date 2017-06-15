@@ -108,6 +108,8 @@
     "pdf_download" : "Download PDF",
 	"design_saved" : "Your design has been saved!",
 	"gallery_search" : "Type to search gallery..",
+	"save_later" : "Save for Later",
+	"resume_design" : "Resume Design",
 	"modules" : {
 		"variable-data" : {
 			"title" : "Generate Variation designs",
