@@ -139,7 +139,7 @@
 		},
 		"canvas-adjuster": {
 			"tip": "Ajuster la taille de votre Canvas",
-			"help": "Click here to adjust your canvas dimension"
+			"help": "Cliquer ici pour ajuster la taille de votre Canvas"
 		},
 		"page-loader": {
 			"add": "Créer une page",
@@ -149,5 +149,5 @@
 	},
 	"page_delete_alert": "Ceci supprimera la page actuelle.<br/>Souhaitez-vous continuer ?",
 	"gallery_search": "Type de galerie de recherche..",
-	"save_later": "Save for Later"
+	"save_later": "Sauvegarder"
 }
