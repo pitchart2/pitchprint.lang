@@ -43,7 +43,7 @@
 	"pick_design": "Veuillez sélectionner un template.",
 	"customize_design2": "Personnaliser",
 	"text_cancelled": "Texte annulé",
-	"click_to_add_text": "Cliquez ici pour ajouter du texte",
+	"click_to_add_text": "Cliquez-ici pour ajouter du texte",
 	"text_added": "Texte ajouté",
 	"shape_added": "Forme ajoutée",
 	"picture_added": "Image ajoutée",
@@ -69,7 +69,7 @@
 	"canvas_size": "Taille de la page",
 	"bg_crop_message": "Redimensionnez et recadrez votre première image s'il vous plaît",
 	"saving_preview": "Enregistrer",
-	"saving_design": "Enregistrer votre dessin",
+	"saving_design": "Enregistrer votre projet",
 	"resume_ok": "Oui, reprendre la conception",
 	"resume_cancel": "Non, recommencer la conception",
 	"saving_text": "Enregistrement...",
@@ -78,11 +78,11 @@
 	"button_info": "Voir",
 	"saved_projects": "Projets sauvegardés",
 	"view_my_saved_projects": "Voir mes projets sauvegardés",
-	"text_my_recent": "Mes dessins enregistrés",
-	"resume_design": "Réutiliser ou commander à nouveau un design",
-	"duplicate_design": "Dupliquer le design",
-	"delete_design": "Supprimer le design",
-	"view_design": "Afficher le design",
+	"text_my_recent": "Mes Projets Enregistrés",
+	"resume_design": "Continuer le projet ou réutiliser pour une nouvelle commande",
+	"duplicate_design": "Dupliquer le projet",
+	"delete_design": "Supprimer le projet",
+	"view_design": "Afficher le projet",
 	"duplicate_design_for_reorder": "Dupliquer le design et commander à nouveau",
 	"download_file": "Télécharger le fichier",
 	"text_saved": "Conceptions enregistrées",
@@ -139,7 +139,7 @@
 		},
 		"canvas-adjuster": {
 			"tip": "Ajuster la taille de votre Canvas",
-			"help": "Click here to adjust your canvas dimension"
+			"help": "Cliquez-ici pour ajuter la taille de votre Canvas"
 		},
 		"page-loader": {
 			"add": "Créer une page",
@@ -148,6 +148,6 @@
 		}
 	},
 	"page_delete_alert": "Ceci supprimera la page actuelle.<br/>Souhaitez-vous continuer ?",
-	"gallery_search": "Type de galerie de recherche..",
-	"save_later": "Save for Later"
+	"gallery_search": "Recherche par nom, type...",
+	"save_later": "Sauvergarder pour plus tard"
 }
